@@ -10,7 +10,7 @@ Project ketiga Dicoding MADE.
 
 ### Hint
 
-1. Database berupa text dalam berkas txt, yang sudah disediakan
+1. Database berupa text dalam berkas txt, yang sudah disediakan.
 2. Buatlah 2 table untuk menyimpan masing-masing database kata.
 3. Lakukanlah proses penyimpanan data di halaman preload. 
 4. Gunakanlah query transaction agar penyimpanan lebih cepat.
